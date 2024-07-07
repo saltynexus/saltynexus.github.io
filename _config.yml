@@ -223,6 +223,8 @@ kramdown:
     block:
       line_numbers: false
       start_line: 1
+open_url: true
+livereload: true
 
 # Includes & excludes
 include: ["_pages"]
