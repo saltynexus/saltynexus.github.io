@@ -37,8 +37,10 @@ In the opening lines of [chapter 51, section 4](https://www.feynmanlectures.calt
 I hope you enjoy my website and find some of the material instructive!
 
 
->**Disclaimer**: 
-This is my personal website. The opinions expressed here are my own and do not reflect the views, positions, or policies of my employer or any other organization I am affiliated with. The content provided is for educational purposes only and should not be considered professional advice. While I strive for accuracy, the information may contain errors or inaccuracies. Readers should verify any information before relying on it.
+> ##### Warning
+>
+>This is my personal website. The opinions expressed here are my own and do not reflect the views, positions, or policies of my employer or any other organization I am affiliated with. The content provided is for educational purposes only and should not be considered professional advice. While I strive for accuracy, the information may contain errors or inaccuracies. Readers should verify any information before relying on it.
+{: .block-warning }
 
 ## Site Author
 {% include_relative /people_bios/heitmann_troy.md %}

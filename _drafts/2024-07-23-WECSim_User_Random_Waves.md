@@ -14,7 +14,7 @@ This theme supports rendering beautiful math in inline and display modes using [
 To use display mode, again surround your expression with `$$` and place it as a separate paragraph. Here is an example:
 
 In the [WEC-Sim docs](https://wec-sim.github.io/WEC-Sim/main/index.html), under the **Advanced Features -> Body Features -> Nonlinear Buoyancy and Froude-Kylov Excitation**, there is a note that reads:
-> ##### NOTE
+> ##### Note
 >
 > WEC-Sim’s nonlinear buoyancy and Froude-Krylov wave excitation option may be used for regular or irregular waves but not with user-defined irregular waves.
 {: .block-note }
