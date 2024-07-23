@@ -3,14 +3,21 @@ layout: post
 title: WEC-Sim User Defined Random Waves
 date: 2024-07-23 08:00:00-1000
 description: A method to include user defined random waves in a WEC-Sim simulation
-tags: random Matlab WEC code Fourier 
+tags: OSWEC Matlab random Fourier 
 categories: WEC-Sim
 related_posts: false
+thumbnail: assets/img/blog_thumbnails/9.jpg
 ---
 
 This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine. You just need to surround your math expression with `$$`, like `$$ E = mc^2 $$`. If you leave it inside a paragraph, it will produce an inline expression, just like $$ E = mc^2 $$.
 
 To use display mode, again surround your expression with `$$` and place it as a separate paragraph. Here is an example:
+
+In the [WEC-Sim docs](https://wec-sim.github.io/WEC-Sim/main/index.html), under the **Advanced Features -> Body Features -> Nonlinear Buoyancy and Froude-Kylov Excitation**, there is a note that reads:
+> ##### NOTE
+>
+> WEC-Sim’s nonlinear buoyancy and Froude-Krylov wave excitation option may be used for regular or irregular waves but not with user-defined irregular waves.
+{: .block-note }
 
 $$
 \sum_{k=1}^\infty |\langle x, e_k \rangle|^2 \leq \|x\|^2

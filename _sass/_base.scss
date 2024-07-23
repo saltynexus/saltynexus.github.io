@@ -67,6 +67,24 @@ blockquote {
   }
 
   /* Tips, warnings, and dangers blockquotes */
+  &.block-note {
+    border-color: var(--global-note-block);
+    background-color: var(--global-note-block-bg);
+
+    p {
+      color: var(--global-note-block-text);
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: var(--global-note-block-title);
+    }
+  }
+  
   &.block-tip {
     border-color: var(--global-tip-block);
     background-color: var(--global-tip-block-bg);
@@ -120,6 +138,7 @@ blockquote {
       color: var(--global-danger-block-title);
     }
   }
+    
 }
 
 // Checklist
