@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://saltynexus.github.io/sitemap.xml
+Sitemap: https://saltynexus.com/sitemap.xml
