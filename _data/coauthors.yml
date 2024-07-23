@@ -32,3 +32,12 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"cheung":
+  - firstname: ["Kwok Fai", "K. F.", "Kwok F.", "K. F."]
+  - url: https://www.soest.hawaii.edu/ore/people/faculty/kwok-fai-cheung/
+
+"li":
+  - firstname: ["Ning"]
+    url: https://www.soest.hawaii.edu/soestwp/about/directory/ning-li/
+
