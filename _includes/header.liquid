@@ -2,6 +2,20 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
+<!-- Troy Edits 
+		   - I added the line below to include my logo in the navigation bar.
+		   By including it here, it applies to all pages. I also added
+		   a scss class for to control the logo height
+		   
+           - I then commented out the block below which adds the site title
+           where the logo is. Since my logo already has the name in it,
+           this was redundant.
+           
+           - At the bottom, I added the ability to include the social links/logs
+           in the navigation bar on the far right instead of where the logo is.
+-->    
+        <a href="{{ site.baseurl }}/"><img class="navbar-logo" src="/assets/img/logo.png"/></a>
+<!--
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title == 'blank' %}
@@ -21,9 +35,10 @@
           {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
-        <!-- Social Icons -->
+        <!-- Social Icons --><!--
         <div class="navbar-brand social">{% include social.liquid %}</div>
       {% endif %}
+-->      
       <!-- Navbar Toggle -->
       <button
         class="navbar-toggler collapsed ml-auto"
@@ -128,6 +143,11 @@
           {% endif %}
         </ul>
       </div>
+<!-- Troy: Added this if statement -->      
+      {% if site.enable_navbar_social %}
+        <!-- Social Icons -->
+        <div class="navbar-brand social">{% include social.liquid %}</div>
+      {% endif %}     
     </div>
   </nav>
   {% if site.enable_progressbar %}

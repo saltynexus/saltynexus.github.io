@@ -6,14 +6,14 @@ subtitle: Thoughts, ideas, and reflections from ocean scientists and engineers i
 
 profile:
   align: right
-  image: Heitmann_profile_1.jpg
+  image: octopus.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Dr. Troy W. Heitmann</p>
+  # more_info: >
+  #  <p>Dr. Troy W. Heitmann</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 7/2024 --- This is my first attempt at creating a public website, so consider it an experiment! Hopefully it won't be too consuming and difficult to maintain. I'll share an honest review in six months.
 
@@ -43,4 +43,4 @@ I hope you enjoy my website and find some of the material instructive!
 {: .block-warning }
 
 ## Site Author
-{% include_relative /people_bios/heitmann_troy.md %}
+

@@ -10,4 +10,7 @@ children:
   - title: divider
   - title: Publications
     permalink: /publications/
+  - title: divider
+  - title: People
+    permalink: /people/
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: WEC-Sim User Defined Random Waves
 date: 2024-07-23 08:00:00-1000
+author: Dr. Troy W. Heitmann
 description: A method to include user defined random waves in a WEC-Sim simulation
 tags: OSWEC Matlab random Fourier 
 categories: WEC-Sim

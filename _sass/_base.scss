@@ -317,6 +317,9 @@ ul.task-list input[type="checkbox"] {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
+// Troy
+// Added a little padding to the left
+    padding-left: 10px;
     font-size: 1.7rem;
 
     a {
@@ -332,6 +335,14 @@ ul.task-list input[type="checkbox"] {
       }
     }
   }
+  
+// Troy
+//	- Added this here instead of in the html code
+//  - I don't think I should be hard coding the height. I believe it should be linked to the navbar height.
+  .navbar-logo{
+    height: 50px;  
+  }
+  
 }
 
 .navbar-toggler {
