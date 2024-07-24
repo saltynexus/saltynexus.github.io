@@ -6,7 +6,7 @@ description: A method to include user defined random waves in a WEC-Sim simulati
 tags: OSWEC Matlab random Fourier 
 categories: WEC-Sim
 related_posts: false
-thumbnail: assets/img/blog_thumbnails/9.jpg
+thumbnail: assets/img/thumbnails_blog/wecsim_user_random_waves.png
 ---
 
 This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine. You just need to surround your math expression with `$$`, like `$$ E = mc^2 $$`. If you leave it inside a paragraph, it will produce an inline expression, just like $$ E = mc^2 $$.
