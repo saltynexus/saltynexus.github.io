@@ -2,7 +2,8 @@
 layout: profiles
 permalink: /people/
 title: Nexus
-description: Friends and colleagues contributing to this site. 
+description: |
+  Below I've included a list of individuals who have contributed on this webpage. 
 nav: false
 nav_order: 7
 
@@ -16,4 +17,3 @@ profiles:
     more_info: >
       <p>Dr. Troy W. Heitmann</p>
 ---
-

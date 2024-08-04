@@ -2,10 +2,11 @@
 layout: page
 permalink: /jupyter_books/
 title: Jupyter Books
-description: This is collection of Jupyter Books I've created.
+description: |
+  This is collection of Jupyter Books I've created.
 nav: true
 nav_order: 6
-display_categories: [Outreach]
+display_categories: [Outreach, Education]
 horizontal: true
 ---
 

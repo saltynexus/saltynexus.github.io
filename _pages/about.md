@@ -2,7 +2,8 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Thoughts, ideas, and reflections from ocean scientists and engineers in academic research.
+main_title: Thoughts, ideas, and reflections from coastal scientists and engineers in academic research.
+subtitle:
 
 profile:
   align: right
@@ -16,6 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 7/2024 --- This is my first attempt at creating a public website, so consider it an experiment! Hopefully it won't be too consuming and difficult to maintain. I'll share an honest review in six months.
+
+---
 
 I started this website for several reasons:
 <ol>
@@ -34,7 +37,7 @@ The Jupyter ecosystem allows you to work with multiple languages (50+) and is qu
 
 In the opening lines of [chapter 51, section 4](https://www.feynmanlectures.caltech.edu/), Professor Richard Feynman starts his lecture on surface waves: “Now, the next waves of interest, that are easily seen by everyone and which are usually used as an example of waves in elementary courses, are water waves. As we shall soon see, they are the worst possible example, because they are in no respects like sound and light; they have all the complications that waves can have.” Formally educated as a coastal engineer with a passion for water waves, I find this quote humbling. I still find the subject challenging today despite all I've learned. I also believe Einstein said it best with: "If you can't explain it simply, you don't understand it well enough." I don't know if this was meant to be paradoxical, but there is certainly a level of truth to it. In creating this website, I'll strive for simplicity, in the hope that not only my readers will improve their understanding of challenging subjects, but I will too.
 
-I hope you enjoy my website and find some of the material instructive!
+I hope you enjoy exploring my website and find the material instructive. If you’d like to get in touch, the best way to reach me is via email. Please use a clear and informative subject line and ensure your email address is valid, otherwise your message may be filtered as spam.
 
 
 > ##### Warning
@@ -42,5 +45,10 @@ I hope you enjoy my website and find some of the material instructive!
 >This is my personal website. The opinions expressed here are my own and do not reflect the views, positions, or policies of my employer or any other organization I am affiliated with. The content provided is for educational purposes only and should not be considered professional advice. While I strive for accuracy, the information may contain errors or inaccuracies. Readers should verify any information before relying on it.
 {: .block-warning }
 
-## Site Author
+## Vision
+The success of this website will be measured by its broad impacts. While I can present material to individual audiences, the true value lies in reaching and benefiting a wider community. I will strive to create and maintain a significant portion of the content, ensuring the website's appeal and functionality. However, I also encourage friends and colleagues to contribute. Contributors will be recognized as [authors]({% link _pages/profiles.md %}) and given full credit for their work.
+
+Who knows? Maybe a few blog posts will evolve into a collaborative book, eventually leading to an academic publication. Over the next few months, I'll consider the best ways to foster this collaborative environment. I understand that not everyone is comfortable with this framework, so I'll work to minimize barriers to entry. Ultimately, I hope this website becomes a community space where ideas flourish and are shared with the communities we aim to support.
+
+
 
