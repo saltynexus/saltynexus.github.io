@@ -1,7 +1,1 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
-[Curriculum Vitae]({% link _pages/cv.md %})
+For as long as I can remember, I've lived within a few miles of a major body of water. I grew up in the Finger Lakes region of Central NY on Cayuga Lake, just north of Cornell University. Summers there were defined by how long you could endure the cold lake water, marking the unofficial start and end of the season. In high school, I would intentionally tailor my answers on career questionnaires to lead to "marine biologist" because I never wanted to leave the water. My passion for the water grew even more when my father, who lived in South Florida, introduced me to ocean engineering at Florida Atlantic University. That introduction set me on the path I’m on today. Now, I’m living in Waimanalo, HI, embracing the Pacific with each breath. If you’re interested in a more technical overview of my background, please check out my [Curriculum Vitae]({% link _pages/cv.md %}).
