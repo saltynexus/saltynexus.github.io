@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://saltynexus.com/sitemap.xml
